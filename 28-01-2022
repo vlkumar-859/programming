@@ -1,2 +1,8 @@
 
-### 1. Set Matrix Zeroes  ### -> https://leetcode.com/problems/set-matrix-zeroes/
+1. Set Matrix Zeroes -> https://leetcode.com/problems/set-matrix-zeroes/
+   
+   Change the first elemnt from its row and column to zero , and then traverse again by changing the entire and column to 0's
+   
+   time complexity : O(m*n)
+   space complexity : O(1)
+
